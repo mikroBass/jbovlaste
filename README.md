@@ -9,10 +9,10 @@ http://jbovlaste.lojban.org/export/xml-export.html?lang=en
 
 Once compiled you can run this program from a commande line terminal
 bu using this syntax :
-jbovlaste [-t <type>][-c <clue>][-u <user>][-o][-w][-n] <arg>
+jbovlaste [-t type][-c clue][-u user][-o][-w][-n] arg
 
-where <type>, <clue>, <user> and <arg> are regular expressions
-for low case strings, <arg> being a requested argument
+where 'type', 'clue', 'user' and 'arg' are regular expressions
+for low case strings, 'arg' being a requested argument
 
 [-t] limit the results to entries matching a regexp in words types
 [-c] limit the results to entries matching a regexp in definitions or notes
